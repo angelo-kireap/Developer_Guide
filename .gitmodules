@@ -1,0 +1,3 @@
+[submodule "git_developer_guide"]
+	path = git_developer_guide
+	url = git@github.com:angelo-kireap/git_developer_guide.git
