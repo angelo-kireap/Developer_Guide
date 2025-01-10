@@ -7,3 +7,6 @@
 [submodule "ai_ml-development-guide"]
 	path = ai_ml-development-guide
 	url = git@github.com:angelo-kireap/ai_ml-development-guide.git
+[submodule "docker_developer_guide"]
+	path = docker_developer_guide
+	url = git@github.com:angelo-kireap/docker_developer_guide.git
