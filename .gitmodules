@@ -1,3 +1,6 @@
 [submodule "git_developer_guide"]
 	path = git_developer_guide
 	url = git@github.com:angelo-kireap/git_developer_guide.git
+[submodule "ros2_developer_guide"]
+	path = ros2_developer_guide
+	url = git@github.com:angelo-kireap/ros2_developer_guide.git
