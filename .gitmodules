@@ -4,3 +4,6 @@
 [submodule "ros2_developer_guide"]
 	path = ros2_developer_guide
 	url = git@github.com:angelo-kireap/ros2_developer_guide.git
+[submodule "ai_ml-development-guide"]
+	path = ai_ml-development-guide
+	url = git@github.com:angelo-kireap/ai_ml-development-guide.git
